@@ -1,0 +1,19 @@
+===========================================
+RESUME DOWNLOAD SETUP INSTRUCTIONS
+===========================================
+
+To enable the resume download feature:
+
+1. Save your resume as a PDF file
+2. Name it exactly: "resume.pdf"
+3. Place it in this assets folder
+4. The download links will automatically work!
+
+The resume download buttons are located in:
+- Header navigation (top right)
+- Hero section (below the main buttons)
+
+Both links point to: assets/resume.pdf
+
+===========================================
+
